@@ -1,0 +1,3 @@
+/mnt/e/DemoProjects/MyThreadPool/cmake-build-debug/CMakeFiles/MyThreadPool.dir
+/mnt/e/DemoProjects/MyThreadPool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/DemoProjects/MyThreadPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
